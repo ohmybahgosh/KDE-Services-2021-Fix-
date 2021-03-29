@@ -1,3 +1,5 @@
+SIMPLE PATCH TO MAKE THE ICONS WORK ON MORE SYSTEMS
+
 Description: 
 ------------
 
